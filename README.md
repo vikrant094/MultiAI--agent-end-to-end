@@ -9,7 +9,7 @@ There are 3 different tasks, indivdually owned by agent called Researcher, Analy
   2. Analyst - Analyzes data and provides insights
   3. Writer - Creates reports and summaries
 
-Condtions : 
+Conditions : 
 1. Researcher will do the research , then it will handles this information to supervisor .
 2. Supervisor will handle it to analyst to do identify the trends and patterns. Analyst again send back analysis to supervisor.
 3. Supervisor then take decision to handle it to writer , if he thinks analysis has been complete.
