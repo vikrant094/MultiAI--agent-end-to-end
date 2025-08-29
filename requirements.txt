@@ -1,0 +1,12 @@
+pydantic
+langgraph
+langchain
+langsmith
+langchain-core
+langchain-community
+python-dotenv
+langchain-groq 
+langchain_tavily
+arxiv
+wikipedia
+langgraph-cli[inmem]

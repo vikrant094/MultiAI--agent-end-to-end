@@ -1,0 +1,21 @@
+[project]
+name = "agenticlanggraph"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "arxiv>=2.2.0",
+    "ipykernel>=6.29.5",
+    "langchain>=0.3.25",
+    "langchain-community>=0.3.25",
+    "langchain-core>=0.3.65",
+    "langchain-groq>=0.3.2",
+    "langchain-tavily>=0.2.3",
+    "langgraph>=0.4.8",
+    "langgraph-cli[inmem]>=0.4.0",
+    "langsmith>=0.3.45",
+    "pydantic>=2.11.7",
+    "python-dotenv>=1.1.0",
+    "wikipedia>=1.4.0",
+]
